@@ -1,2 +1,2 @@
 # Chess
-A simple and Powerfull Chess
+A simple app to play chess
